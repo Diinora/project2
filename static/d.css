@@ -1,0 +1,11 @@
+ *{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+.b{
+    background-color: green;
+      width: 355px;
+    padding: 0 15px;
+    
+
+}
