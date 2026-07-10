@@ -2,10 +2,40 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  }
 .b{
     background-color: green;
       width: 355px;
     padding: 0 15px;
     
 
+}
+
+
+ .s{
+    background-color: aqua;
+ }
+.container{
+    width: 1300px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+a{
+    text-decoration: none;
+     color: black;
+}
+.menu{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+
+
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 100px;
+    
 }
